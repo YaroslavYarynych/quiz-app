@@ -5,7 +5,7 @@ Welcome to the Millionaire Quiz App! Test your knowledge and challenge yourself 
 ## Links:
 
 - [DEMO](https://yaroslavyarynych.github.io/quiz-app/)
-- [Solution](https://github.com/YaroslavYarynych/quiz-ap.git)
+- [Solution](https://github.com/YaroslavYarynych/quiz-app.git)
 
 ## Requirements:
 - make the layout adaptive;
