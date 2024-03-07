@@ -1,0 +1,110 @@
+[
+  {
+    "answer_id": 1,
+    "options": {
+      "A": "Backing",
+      "B": "Kayaking",
+      "C": "Trudging",
+      "D": "Tramping"
+    }
+  },
+  {
+    "answer_id": 2,
+    "options": {
+      "A": "Oarlock",
+      "B": "Paddle",
+      "C": "Steering",
+      "D": "Hull"
+    }
+  },
+  {
+    "answer_id": 3,
+    "options": {
+      "A": "Cubical",
+      "B": "Conical",
+      "C": "Oval",
+      "D": "Pyramid"
+    }
+  },
+  {
+    "answer_id": 4,
+    "options": {
+      "A": "Climbing",
+      "B": "Canoeing",
+      "C": "Oval",
+      "D": "Pyramid"
+    }
+  },
+  {
+    "answer_id": 5,
+    "options": {
+      "A": "Buildering",
+      "B": "Bouldering",
+      "C": "Bordering",
+      "D": "Chalk Climbing"
+    }
+  },
+  {
+    "answer_id": 6,
+    "options": {
+      "A": "Class VI",
+      "B": "Class IV",
+      "C": "Class III",
+      "D": "Class V"
+    }
+  },
+  {
+    "answer_id": 7,
+    "options": {
+      "A": "China",
+      "B": "India",
+      "C": "Bolivia",
+      "D": "USA"
+    }
+  },
+  {
+    "answer_id": 8,
+    "options": {
+      "A": "Hill Walking",
+      "B": "Angling",
+      "C": "Climbing",
+      "D": "Kayaking"
+    }
+  },
+  {
+    "answer_id": 9,
+    "options": {
+      "A": "Skiing",
+      "B": "Hot-Air Ballooning",
+      "C": "Canoeing",
+      "D": "Kayaking"
+    }
+  },
+  {
+    "answer_id": 10,
+    "options": {
+      "A": "Glamping",
+      "B": "Work Camping",
+      "C": "Adventure Camping",
+      "D": "Historical Camping"
+    }
+  },
+  {
+    "answer_id": 11,
+    "options": {
+      "A": "Dirt Jumping",
+      "B": "Paddling",
+      "C": "Freeride",
+      "D": "Downhill"
+    }
+  },
+  {
+    "answer_id": 12,
+    "options": {
+      "A": "Canoeing",
+      "B": "Mountain Biking",
+      "C": "Hiking",
+      "D": "Caving"
+    }
+  }
+]

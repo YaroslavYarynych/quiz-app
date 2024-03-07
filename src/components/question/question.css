@@ -1,0 +1,19 @@
+.question {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 37px;
+  text-align: center;
+}
+
+@media (min-width: 767px) {
+  .question {
+    text-align: left;
+  }
+}
+
+@media (min-width: 1440px) {
+  .question {
+    font-size: 60px;
+    line-height: 80px;
+  }
+}

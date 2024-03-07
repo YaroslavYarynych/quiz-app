@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "question": "Which is an alternative term for backpacking?",
+    "answer": "D",
+    "reward": 500
+  },
+  {
+    "id": 2,
+    "question": "Which is NOT a component of a canoe?",
+    "answer": "C",
+    "reward": 1000
+  },
+  {
+    "id": 3,
+    "question": "What is the shape of a 'tipi' tent?",
+    "answer": "B",
+    "reward": 2000
+  },
+  {
+    "id": 4,
+    "question": "The Hollywood movie 'Vertical Limit' begins with which outdoor activity?",
+    "answer": "A",
+    "reward": 4000
+  },
+  {
+    "id": 5,
+    "question": "What is the term used for 'climbing urban structures'?",
+    "answer": "A",
+    "reward": 8000
+  },
+  {
+    "id": 6,
+    "question": "Which is the highest class of river where rafting is almost impossible?",
+    "answer": "A",
+    "reward": 16000
+  },
+  {
+    "id": 7,
+    "question": "In which part of the world is hunting referred to as 'shikar'?",
+    "answer": "B",
+    "reward": 32000
+  },
+  {
+    "id": 8,
+    "question": "For which outdoor activity would you need a sinker, gaff, and rod?",
+    "answer": "B",
+    "reward": 64000
+  },
+  {
+    "id": 9,
+    "question": "Paul Edward Yost is referred to as the 'Father' of which outdoor activity?",
+    "answer": "B",
+    "reward": 125000
+  },
+  {
+    "id": 10,
+    "question": "What is an alternative name for Boutique Camping?",
+    "answer": "A",
+    "reward": 250000
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is NOT a category of mountain biking?",
+    "answer": "B",
+    "reward": 500000
+  },
+  {
+    "id": 12,
+    "question": "Which outdoor activity is also known as 'spelunking' in the US and 'potholing' in the UK?",
+    "answer": "D",
+    "reward": 1000000
+  }
+]
