@@ -40,6 +40,11 @@
   font-size: 20px;
   line-height: 23px;
   text-align: center;
+  z-index: 100;
+}
+
+.quiz-step__icon {
+  z-index: 1;
 }
 
 .quiz-step__text--active {
@@ -52,6 +57,10 @@
   line-height: 23px;
   text-align: center;
   color: var(--stroke-color-primary);
+}
+
+.quiz-step__text-mobile {
+  color: var(--stroke-color-hover);
 }
 
 @media (min-width: 767px) {

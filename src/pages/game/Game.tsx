@@ -17,6 +17,7 @@ import './game.css';
 export const Game = () => {
   const [rewards, setRewards] = useState(questions);
   const [isActive, setIsActive] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
   const dispatch = useAppDispatch();
   const currentQuestionId = useSelector(
     (state: RootState) => state.question.currentQuestionId,
@@ -25,6 +26,19 @@ export const Game = () => {
   useEffect(() => {
     dispatch(resetIsResult());
   }, []);
+
+  const handleResize = () => {
+    if (window.innerWidth < 767) {
+      setIsMobile(true);
+    } else {
+      setIsMobile(false);
+    }
+  };
+
+  // create an event listener
+  useEffect(() => {
+    window.addEventListener('resize', handleResize);
+  });
 
   const questionToDisplay =
     questions.find((q) => q.id === currentQuestionId) || questions[0];
@@ -62,6 +76,7 @@ export const Game = () => {
         />
       </div>
       <Sidebar
+        isMobile={isMobile}
         isOpen={isActive}
         currentQuestion={currentQuestionId}
         rewards={rewards}

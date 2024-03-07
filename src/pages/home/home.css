@@ -175,7 +175,7 @@
   font-size: 32px;
   font-weight: var(--fw-text);
   line-height: 37px;
-  text-align: left;
+  text-align: center;
   color: #88888c;
 }
 
@@ -190,4 +190,10 @@
 
 .home-text__btn:active {
   background-color: var(--bg-btn-active);
+}
+
+@media (min-width: 767px) {
+  .home-text__total-score {
+    text-align: left;
+  }
 }
