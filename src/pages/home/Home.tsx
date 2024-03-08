@@ -52,7 +52,7 @@ export const Home = () => {
             {isFinal && <p className="home-text__total-score">Total score:</p>}
             <h1 className="home-text__title">
               {isFinal
-                ? `${reward.toLocaleString('en-US')} earned`
+                ? `$${reward.toLocaleString('en-US')} earned`
                 : 'Who wants to be a millionaire?'}
             </h1>
           </div>
